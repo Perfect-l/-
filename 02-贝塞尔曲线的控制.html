@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>贝塞尔曲线控制</title>
+    <style>
+        canvas{
+            border:1px solid red;
+        }
+    </style>
+</head>
+<body>
+<canvas width="600" height="400" id="canvas"></canvas>
+<script>
+    var canvas=document.getElementById('canvas')
+    var ctx=canvas.getContext('2d');
+    // 点类
+    function Point(x,y) {
+        this.x=x;
+        this.y=y
+    }
+    // 渲染方法
+    Point.prototype.render=function () {
+        ctx.save();
+        ctx.beginPath();
+        ctx.fillStyle='green';
+        ctx.lineWidth='4';
+        ctx.arc(this.x,this.y,5,0,7,false);
+        ctx.closePath();
+        ctx.fill();
+        ctx.stroke();
+        ctx.restore();
+    }
+    // 每一个小圆圈都有接受点击的事件
+    Point.prototype.reciveMouseDown=function (x,y) {
+        if (x>this.x-5&&x<this.x+5&&y>this.y-5&&y<this.y+5) {
+            return true;
+        }
+        return false;
+    }
+    //实例化四个点
+    var startPoint=new Point(100,200);
+    var endPoint=new Point(500,200);
+    var ctrPoint1=new Point(130,100);
+    var ctrPoint2=new Point(360,360)
+    draw()
+    function draw() {
+        //清屏
+        ctx.clearRect(0,0,600,400);
+        // 划线
+        // 连接器试点和结束点
+        ctx.beginPath();
+        ctx.moveTo(startPoint.x,startPoint.y);
+        ctx.bezierCurveTo(ctrPoint1.x,ctrPoint1.y,ctrPoint2.x,ctrPoint2.y,endPoint.x,endPoint.y);
+        ctx.stroke()
+        startPoint.render();
+        endPoint.render();
+        ctrPoint1.render();
+        ctrPoint2.render();
+        // 开始点，结束点与控制点链接
+        ctx.save();
+        ctx.beginPath();
+        ctx.moveTo(startPoint.x,startPoint.y);
+        ctx.lineTo(ctrPoint1.x,ctrPoint1.y);
+        // ctx.lineTo(startPoint.x,ctrPoint2.y);
+        ctx.strokeStyle='cyan';
+        ctx.lineWidth='2';
+        ctx.stroke();
+        ctx.restore();
+
+        ctx.save();
+        ctx.beginPath();
+        ctx.moveTo(endPoint.x,endPoint.y);
+        ctx.lineTo(ctrPoint2.x,ctrPoint2.y);
+        ctx.strokeStyle='cyan';
+        ctx.lineWidth='2';
+        ctx.stroke();
+        ctx.restore();
+        ctx.save();
+        ctx.fillStyle='red';
+        ctx.font='bold 20px 微软雅黑';
+        ctx.fillText('s',startPoint.x-3,startPoint.y-15)
+        ctx.fillText('e',endPoint.x-3,endPoint.y-15)
+        ctx.fillText('c1',ctrPoint1.x-3,ctrPoint1   .y-15)
+        ctx.fillText('c2',ctrPoint2.x-3,ctrPoint2.y-15)
+    }
+    var points=[startPoint,endPoint,ctrPoint1,ctrPoint2];
+    var _point=null;
+    canvas.onmousedown=function (e) {
+        var x=e.offsetX;
+        var y=e.offsetY;
+        // 循环判断points数组，判断x,y点在谁身上、
+        for (var i =0 ;i<points.length;i++) {
+            if (points[i].reciveMouseDown(x,y)){
+                _point=points[i];
+            }
+        }
+        if (!_point){
+            return;
+        }
+        canvas.onmousemove=function (ev) {
+            _point.x=ev.offsetX-5;
+            _point.y=ev.offsetY-5;
+            draw();
+        }
+    }
+    document.onmouseup=function () {
+        canvas.onmousemove=null;
+        _point=null
+    }
+</script>
+</body>
+</html>
