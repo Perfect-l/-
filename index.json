@@ -1,0 +1,157 @@
+{
+	"id": "a_fff0a71b39251f112795f1030e09873c_1539680806951_shandao",
+	"result": {
+		"code": 1000,
+		"data": {
+			"bannerListTwo": [],
+			"bannerList": [{
+				"desc": "600",
+				"image": "http://shandao.oss-cn-hangzhou.aliyuncs.com/online/9930b2bdceb8ecf6.jpg",
+				"type": "2"
+			}, {
+				"desc": "677",
+				"image": "http://shandao.oss-cn-hangzhou.aliyuncs.com/online/4594b60a9b9a5ae6.jpg",
+				"type": "3"
+			}],
+			"categoryList": [{
+				"categoryIcon": "http://shandao.oss-cn-hangzhou.aliyuncs.com/online/9b91208e893591da.png",
+				"categoryId": 600,
+				"name": "数码3C"
+			}, {
+				"categoryIcon": "http://shandao.oss-cn-hangzhou.aliyuncs.com/online/924a61149b9fe3c2.png",
+				"categoryId": 604,
+				"name": "美妆个护"
+			}, {
+				"categoryIcon": "http://shandao.oss-cn-hangzhou.aliyuncs.com/online/ca2cb5ba3177daf8.png",
+				"categoryId": 603,
+				"name": "品牌腕表"
+			}, {
+				"categoryIcon": "http://shandao.oss-cn-hangzhou.aliyuncs.com/online/35bd27805bbb19d9.png",
+				"categoryId": 602,
+				"name": "奢品包饰"
+			}, {
+				"categoryIcon": "http://shandao.oss-cn-hangzhou.aliyuncs.com/online/5845b36c00f8ef7d.png",
+				"categoryId": 605,
+				"name": "生活家电"
+			}],
+			"bannerGoodsList": [{
+				"bannerList": [{
+					"desc": "600",
+					"image": "http://shandao.oss-cn-hangzhou.aliyuncs.com/online/2b2c52666a600aba.jpg",
+					"type": "2"
+				}],
+				"goodsList": [{
+					"goodsIcon": "http://lettopro.oss-cn-hangzhou.aliyuncs.com/online/52492cfe3f2db082.jpg",
+					"goodsId": 673,
+					"monthPay": 766.80,
+					"name": "华为 HUAWEI Mate 10 Pro 全网通 双卡双待",
+					"nper": 6,
+					"remark": ""
+				}, {
+					"goodsIcon": "http://lettopro.oss-cn-hangzhou.aliyuncs.com/online/c9e224428fac7154.jpg",
+					"goodsId": 675,
+					"monthPay": 550.27,
+					"name": "vivo X20 全面屏 双摄美颜拍照手机 ",
+					"nper": 6,
+					"remark": ""
+				}, {
+					"goodsIcon": "http://lettopro.oss-cn-hangzhou.aliyuncs.com/online/cac2714c958bbc5c.jpg",
+					"goodsId": 685,
+					"monthPay": 1649.64,
+					"name": "Apple iPhone X 移动联通电信4G手机",
+					"nper": 6,
+					"remark": ""
+				}],
+				"name": "暑期特惠"
+			}, {
+				"bannerList": [{
+					"desc": "604",
+					"image": "http://shandao.oss-cn-hangzhou.aliyuncs.com/online/5ddefbcd11a66114.jpg",
+					"type": "2"
+				}],
+				"goodsList": [{
+					"goodsIcon": "http://lettopro.oss-cn-hangzhou.aliyuncs.com/online/77f49f918720d6e7.jpg",
+					"goodsId": 699,
+					"monthPay": 235.80,
+					"name": "欧莱雅（LOREAL）金致臻颜奢养紧妍系列 六件套 洁面125ml+活肤水175ml+乳液125ml+日霜+晚霜+眼霜15ml",
+					"nper": 6,
+					"remark": ""
+				}, {
+					"goodsIcon": "http://lettopro.oss-cn-hangzhou.aliyuncs.com/online/1177ddd49e6bb261.jpg",
+					"goodsId": 677,
+					"monthPay": 39.33,
+					"name": "玉兰油Olay面霜多效修护50g（补水保湿 素颜霜）",
+					"nper": 6,
+					"remark": ""
+				}, {
+					"goodsIcon": "http://lettopro.oss-cn-hangzhou.aliyuncs.com/online/75a4a03ba17cb0b0.jpg",
+					"goodsId": 687,
+					"monthPay": 7.47,
+					"name": "姬芮(Za）卸妆蜜100ml 清除毛孔角质 洁面不紧绷洗面奶",
+					"nper": 6,
+					"remark": ""
+				}],
+				"name": "美期更美肌"
+			}, {
+				"bannerList": [{
+					"desc": "603",
+					"image": "http://shandao.oss-cn-hangzhou.aliyuncs.com/online/fca249b7d98b2ab7.jpg",
+					"type": "2"
+				}],
+				"goodsList": [{
+					"goodsIcon": "http://lettopro.oss-cn-hangzhou.aliyuncs.com/online/22d2bb85bbd05ddc.jpg",
+					"goodsId": 713,
+					"monthPay": 259.20,
+					"name": "丹尼尔惠灵顿手表DW女表34mm金色边皮带超薄女士石英手表带日历DW00100094",
+					"nper": 6,
+					"remark": ""
+				}, {
+					"goodsIcon": "http://lettopro.oss-cn-hangzhou.aliyuncs.com/online/0ff334fdf81a34f9.jpg",
+					"goodsId": 718,
+					"monthPay": 743.79,
+					"name": "天梭(TISSOT)手表 力洛克系列机械情侣表女表T41.1.183.53",
+					"nper": 6,
+					"remark": ""
+				}, {
+					"goodsIcon": "http://lettopro.oss-cn-hangzhou.aliyuncs.com/online/1b708b4b4aa48ac3.jpg",
+					"goodsId": 709,
+					"monthPay": 196.47,
+					"name": "dw手表丹尼尔惠灵顿多彩尼龙表带36mm超薄石英女表0502DW（DW00100030）",
+					"nper": 6,
+					"remark": ""
+				}],
+				"name": "精选好货"
+			}, {
+				"bannerList": [{
+					"desc": "605",
+					"image": "http://shandao.oss-cn-hangzhou.aliyuncs.com/online/0e6c1aefa04b1841.jpg",
+					"type": "2"
+				}],
+				"goodsList": [{
+					"goodsIcon": "http://lettopro.oss-cn-hangzhou.aliyuncs.com/online/e9e3bd29e14c9a72.jpg",
+					"goodsId": 719,
+					"monthPay": 77.88,
+					"name": "荣事达自动上水壶保温玻璃泡茶电水壶养生壶GM10R",
+					"nper": 6,
+					"remark": ""
+				}, {
+					"goodsIcon": "http://lettopro.oss-cn-hangzhou.aliyuncs.com/online/fc9607d991967172.jpg",
+					"goodsId": 722,
+					"monthPay": 38.94,
+					"name": "荣事达 全自动加厚玻璃烧水壶多功能煮茶器养生壶YSH150BT",
+					"nper": 6,
+					"remark": ""
+				}, {
+					"goodsIcon": "http://lettopro.oss-cn-hangzhou.aliyuncs.com/online/ee075cfedce0d647.jpg",
+					"goodsId": 723,
+					"monthPay": 38.94,
+					"name": "荣事达 全自动加厚玻璃多功能煮茶壶煮茶器电热水壶养生壶YSH1539",
+					"nper": 6,
+					"remark": ""
+				}],
+				"name": "品质优选"
+			}]
+		},
+		"msg": "成功"
+	}
+}
