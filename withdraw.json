@@ -23,7 +23,7 @@
         "isNeedLogin": 0,
         "titleName": "活动",
         "background": "",
-        "imageUrl": "http://shandao.oss-cn-hangzhou.aliyuncs.com/online/383507e94830e766.jpg",
+        "image": "http://shandao.oss-cn-hangzhou.aliyuncs.com/online/383507e94830e766.jpg",
         "sort": 0,
         "type": "H5_URL",
         "content": "http://papi.musitech8.com/h5/welfare.html"
@@ -31,7 +31,7 @@
         "isNeedLogin": 0,
         "titleName": "金融界信用贷款国家政策",
         "background": "",
-        "imageUrl": "http://shandao.oss-cn-hangzhou.aliyuncs.com/online/d6d2487a6e85757f.jpg",
+        "image": "http://shandao.oss-cn-hangzhou.aliyuncs.com/online/d6d2487a6e85757f.jpg",
         "sort": 0,
         "type": "H5_URL",
         "content": "http://papi.musitech8.com/h5/notice_shan.html"
@@ -39,7 +39,7 @@
         "isNeedLogin": 0,
         "titleName": "品宣",
         "background": "",
-        "imageUrl": "http://shandao.oss-cn-hangzhou.aliyuncs.com/online/4a08c0f402022027.jpg",
+        "image": "http://shandao.oss-cn-hangzhou.aliyuncs.com/online/4a08c0f402022027.jpg",
         "sort": 0,
         "type": "UN_URL",
         "content": ""
@@ -47,7 +47,7 @@
         "isNeedLogin": 0,
         "titleName": "快速审核",
         "background": "",
-        "imageUrl": "http://lettopro.oss-cn-hangzhou.aliyuncs.com/online/59dadf6d67f1d942.png",
+        "image": "http://lettopro.oss-cn-hangzhou.aliyuncs.com/online/59dadf6d67f1d942.png",
         "sort": 1,
         "type": "UN_URL",
         "content": ""
