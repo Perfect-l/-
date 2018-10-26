@@ -1,0 +1,100 @@
+{
+  "id":"a_fff0a71b39251f112795f1030e09873c_1540432304659_shandao",
+  "result":{
+    "code":1000,
+    "data":{
+      "bannerList":[
+        {
+          "desc":"675",
+          "image":"http://lettopro.oss-cn-hangzhou.aliyuncs.com/online/49981bc92b5b80fc.png",
+          "type":"3"
+        }
+      ],
+      "categoryList":[
+        {
+          "goodsList":[
+            {
+              "goodsIcon":"http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/491a75c123c20feb.jpg",
+              "goodsId":673,
+              "monthPay":766.8,
+              "nper":6,
+              "title":"华为 HUAWEI Mate 10 Pro 全网通 双卡双待"
+            },
+            {
+              "goodsIcon":"http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/fc76712e59f866ae.jpg",
+              "goodsId":674,
+              "monthPay":550.47,
+              "nper":6,
+              "title":"OPPO R11 全网通 双卡双待手机"
+            },
+            {
+              "goodsIcon":"http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/c3afd269508447bd.jpg",
+              "goodsId":675,
+              "monthPay":550.27,
+              "nper":6,
+              "title":"vivo X20 全面屏 双摄美颜拍照手机 "
+            },
+            {
+              "goodsIcon":"http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/8cfaf0c42b6be51e.jpg",
+              "goodsId":676,
+              "monthPay":685.97,
+              "nper":6,
+              "title":"华为 HUAWEI P10 全网通 移动联通电信4G手机 双卡双待"
+            },
+            {
+              "goodsIcon":"http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/cd537c826402ddeb.jpg",
+              "goodsId":679,
+              "monthPay":471.8,
+              "nper":6,
+              "title":"Apple iPhone 6 移动联通电信4G手机"
+            },
+            {
+              "goodsIcon":"http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/0b3306be19a62608.jpg",
+              "goodsId":680,
+              "monthPay":707.8,
+              "nper":6,
+              "title":"Apple iPhone 6s Plus 移动联通电信4G手机"
+            },
+            {
+              "goodsIcon":"http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/81f6c85908dd4f5b.jpg",
+              "goodsId":681,
+              "monthPay":983.13,
+              "nper":6,
+              "title":"Apple 苹果 iPhone7 4G手机 全网通"
+            },
+            {
+              "goodsIcon":"http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/4d1335b0d79f4c8c.jpg",
+              "goodsId":682,
+              "monthPay":983.13,
+              "nper":6,
+              "title":"Apple iPhone 7 Plus 移动联通电信4G手机"
+            },
+            {
+              "goodsIcon":"http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/e877a0010bbeaf36.jpg",
+              "goodsId":683,
+              "monthPay":1157.97,
+              "nper":6,
+              "title":"Apple iPhone 8 移动联通电信4G手机"
+            },
+            {
+              "goodsIcon":"http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/14f2dac00c6df2e1.jpg",
+              "goodsId":684,
+              "monthPay":1315.3,
+              "nper":6,
+              "title":"Apple iPhone 8 Plus 移动联通电信4G手机"
+            },
+            {
+              "goodsIcon":"http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/e33a91950d1ed1b2.jpg",
+              "goodsId":685,
+              "monthPay":1649.64,
+              "nper":6,
+              "title":"Apple iPhone X 移动联通电信4G手机"
+            }
+          ]
+        }
+      ],
+      "title":"数码3C"
+    },
+    "msg":"成功"
+  }
+}
