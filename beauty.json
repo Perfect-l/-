@@ -1,0 +1,78 @@
+{
+  "id": "a_fff0a71b39251f112795f1030e09873c_1540535248387_shandao",
+  "result": {
+    "code": 1000,
+    "data": {
+      "bannerList": [{
+        "desc": "675",
+        "image": "http://lettopro.oss-cn-hangzhou.aliyuncs.com/online/49981bc92b5b80fc.png",
+        "type": "3"
+      }],
+      "categoryList": [{
+        "goodsList": [{
+          "goodsIcon": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/be0650931d7a3b88.jpg",
+          "goodsId": 677,
+          "monthPay": 39.33,
+          "nper": 6,
+          "title": "玉兰油Olay面霜多效修护50g（补水保湿 素颜霜）"
+        }, {
+          "goodsIcon": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/8fa68f6adb6989b1.jpg",
+          "goodsId": 678,
+          "monthPay": 20.65,
+          "nper": 6,
+          "title": "曼秀雷敦（Mentholatum） 肌研白润 美白化妆水，滋润型（祛斑 补水保湿 护肤品 精华液 乳液）"
+        }, {
+          "goodsIcon": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/7cfa132d9fffc7be.jpg",
+          "goodsId": 686,
+          "monthPay": 11.60,
+          "nper": 6,
+          "title": "姬芮(Za）新能真皙美白隔离霜35g"
+        }, {
+          "goodsIcon": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/5761e249c370795c.jpg",
+          "goodsId": 687,
+          "monthPay": 7.47,
+          "nper": 6,
+          "title": "姬芮(Za）卸妆蜜100ml 清除毛孔角质 洁面不紧绷洗面奶"
+        }, {
+          "goodsIcon": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/2dc17a3ae09d576c.jpg",
+          "goodsId": 688,
+          "monthPay": 7.67,
+          "nper": 6,
+          "title": "姬芮(Za）洁面膏100g 按摩颗粒 深层清洁维生素洗面奶"
+        }, {
+          "goodsIcon": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/a5283a5875162345.jpg",
+          "goodsId": 689,
+          "monthPay": 28.71,
+          "nper": 6,
+          "title": "姬芮(Za)深层卸妆隔离2件套(隔离霜35g+卸妆油100ml)"
+        }, {
+          "goodsIcon": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/a01a6460ae8b5821.jpg",
+          "goodsId": 690,
+          "monthPay": 23.01,
+          "nper": 6,
+          "title": "姬芮(Za)甜蜜卸妆隔离2件套(隔离霜35g+卸妆蜜100ml)"
+        }, {
+          "goodsIcon": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/b71b2219aea58f9b.jpg",
+          "goodsId": 691,
+          "monthPay": 23.01,
+          "nper": 6,
+          "title": "姬芮(Za)温和洁面隔离2件套(隔离霜35g+姬芮洁面膏100g)"
+        }, {
+          "goodsIcon": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/1a50c51118b25039.jpg",
+          "goodsId": 692,
+          "monthPay": 23.40,
+          "nper": 6,
+          "title": "曼秀雷敦男士护肤套装(活力洁面乳150g+能量爽肤水120g+修护润肤乳50g）"
+        }, {
+          "goodsIcon": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/eed59140ccf81e4f.jpg",
+          "goodsId": 699,
+          "monthPay": 235.80,
+          "nper": 6,
+          "title": "欧莱雅（LOREAL）金致臻颜奢养紧妍系列 六件套 洁面125ml+活肤水175ml+乳液125ml+日霜+晚霜+眼霜15ml"
+        }]
+      }],
+      "title": "美妆个护"
+    },
+    "msg": "成功"
+  }
+}
