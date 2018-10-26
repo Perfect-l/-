@@ -1,0 +1,96 @@
+{
+  "id": "a_fff0a71b39251f112795f1030e09873c_1540535272059_shandao",
+  "result": {
+    "code": 1000,
+    "data": {
+      "bannerList": [{
+        "desc": "675",
+        "image": "http://lettopro.oss-cn-hangzhou.aliyuncs.com/online/49981bc92b5b80fc.png",
+        "type": "3"
+      }],
+      "categoryList": [{
+        "goodsList": [{
+          "goodsIcon": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/9c56e98050dbcc56.jpg",
+          "goodsId": 693,
+          "monthPay": 302.67,
+          "nper": 6,
+          "title": "Coach  36675 IMEQO 女士包包"
+        }, {
+          "goodsIcon": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/b807f1c884f0cedc.jpg",
+          "goodsId": 694,
+          "monthPay": 369.73,
+          "nper": 6,
+          "title": "Coach  53618 SKHMA 品牌包包"
+        }, {
+          "goodsIcon": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/789bd475b5a7b7ff.jpg",
+          "goodsId": 695,
+          "monthPay": 511.13,
+          "nper": 6,
+          "title": "Coach 33547 SV CF 女士包包"
+        }, {
+          "goodsIcon": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/da2e73e2fe27f9b8.jpg",
+          "goodsId": 696,
+          "monthPay": 428.73,
+          "nper": 6,
+          "title": "Coach 53539 SVDK6 品牌包包"
+        }, {
+          "goodsIcon": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/1c92358c6737a480.jpg",
+          "goodsId": 698,
+          "monthPay": 507.40,
+          "nper": 6,
+          "title": "Coach 58310 IMAA8 品牌包包"
+        }, {
+          "goodsIcon": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/1cd877ab466bea82.jpg",
+          "goodsId": 700,
+          "monthPay": 123.50,
+          "nper": 6,
+          "title": "Pandora潘多拉 925银想和你一起环游世界吊坠 791717CZ"
+        }, {
+          "goodsIcon": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/715cf458ea719f33.jpg",
+          "goodsId": 701,
+          "monthPay": 88.10,
+          "nper": 6,
+          "title": "Pandora潘多拉 迪斯尼米奇头饰吊坠 791561NCK"
+        }, {
+          "goodsIcon": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/3462723e3d591eda.jpg",
+          "goodsId": 703,
+          "monthPay": 88.10,
+          "nper": 6,
+          "title": "Pandora潘多拉 高跟鞋吊坠 791536CZ"
+        }, {
+          "goodsIcon": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/c95ee1d2adabc170.jpg",
+          "goodsId": 704,
+          "monthPay": 88.10,
+          "nper": 6,
+          "title": "Pandora潘多拉 米妮纸杯蛋糕串珠 791463EN09"
+        }, {
+          "goodsIcon": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/79438d52b4912617.jpg",
+          "goodsId": 705,
+          "monthPay": 123.50,
+          "nper": 6,
+          "title": "Pandora潘多拉 闪亮的苹果花串珠 791831NBP"
+        }, {
+          "goodsIcon": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/da4ed214a458c992.jpg",
+          "goodsId": 706,
+          "monthPay": 141.20,
+          "nper": 6,
+          "title": "Pandora潘多拉 闪烁心形密镶扣银手链 590743CZ 16"
+        }, {
+          "goodsIcon": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/d40553e374366233.jpg",
+          "goodsId": 707,
+          "monthPay": 105.80,
+          "nper": 6,
+          "title": "Pandora潘多拉 诗花绽放925银珐琅串饰 791827EN40"
+        }, {
+          "goodsIcon": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/559b380f8e731300.jpg",
+          "goodsId": 708,
+          "monthPay": 229.70,
+          "nper": 6,
+          "title": "Pandora潘多拉 幸福树项链 390384CZ 80"
+        }]
+      }],
+      "title": "奢品包饰"
+    },
+    "msg": "成功"
+  }
+}
