@@ -8,7 +8,7 @@
 					"monthPay": 77.88,
 					"price": 396.00,
 					"nper": 6,
-					"propertyValues": ["卡其色", "1L"],
+					"propertyValues": "卡其色，1L"
 					"title": "荣事达自动上水壶保温玻璃泡茶电水壶养生壶GM10R",
 					"bannerList": [{
 						"height": 1298,
@@ -54,7 +54,7 @@
 					"monthPay": 66.67,
 					"price": 339.00,
 					"nper": 6,
-					"propertyValues": ["1.8L"],
+					"propertyValues": "1.8L",
 					"title": "荣事达 全自动加厚玻璃电煮茶壶多功能烧水煮茶器养生壶YSH8012",
 					"bannerList": [{
 						"height": 657,
@@ -168,7 +168,7 @@
 					"monthPay": 38.94,
 					"price": 198.00,
 					"nper": 6,
-					"propertyValues": ["1.8L"],
+					"propertyValues": "1.8L",
 					"title": "荣事达 全自动加厚玻璃烧水壶多功能煮茶器养生壶YSH150BT",
 					"bannerList": [{
 						"height": 618,
@@ -237,7 +237,7 @@
 					"goodsId": 723,
 					"monthPay": 38.94,
 					"price": 198.00,
-					"propertyValues": ["1.5L"],
+					"propertyValues": "1.5L",
 					"nper": 6,
 					"title": "荣事达 全自动加厚玻璃多功能煮茶壶煮茶器电热水壶养生壶YSH1539",
 					"bannerList": [{
@@ -323,7 +323,7 @@
 					"goodsId": 724,
 					"monthPay": 37.17,
 					"price": 189.00,
-					"propertyValues": ["1.5L"],
+					"propertyValues": "1.5L",
 					"nper": 6,
 					"title": "荣事达 1.5L全自动加厚玻璃烧水壶多功能煮茶器养生壶YSH150BT1563T",
 					"bannerList": [{
@@ -422,7 +422,7 @@
 					"monthPay": 36.97,
 					"price": 188.00,
 					"nper": 6,
-					"propertyValues": ["自动断电、防干烧、保温"],
+					"propertyValues": "自动断电、防干烧、保温",
 					"title": "荣事达 全自动分体电热水壶煮茶器烧水壶养生壶YSH1802",
 					"bannerList": [{
 						"height": 1380,
@@ -496,7 +496,7 @@
 					"monthPay": 38.94,
 					"price": 198.00,
 					"nper": 6,
-					"propertyValues": ["自动断电、防干烧、保温"],
+					"propertyValues": "自动断电、防干烧、保温",
 					"title": "荣事达 全自动中药壶电煎药锅中药罐煎药壶养生壶YSH3501B",
 					"bannerList": [{
 						"height": 1066,
@@ -598,7 +598,7 @@
 					"monthPay": 35,
 					"price": 178.00,
 					"nper": 6,
-					"propertyValues": ["自动断电、防干烧、保温"],
+					"propertyValues": "自动断电、防干烧、保温",
 					"title": "荣事达 全自动中药壶煎药锅养生壶YSH3502",
 					"bannerList": [{
 						"height": 870,
@@ -712,7 +712,7 @@
 					"monthPay": 39.13,
 					"price": 199.00,
 					"nper": 6,
-					"propertyValues": ["1.8L"],
+					"propertyValues": "1.8L",
 					"title": "荣事达 玻璃加厚1.8L全自动多功能煮茶器养生壶YSH8008",
 					"bannerList": [{
 						"height": 1087,
@@ -794,7 +794,7 @@
 					"monthPay": 64.9,
 					"price": 330.00,
 					"nper": 6,
-					"propertyValues": ["1.8L"],
+					"propertyValues": "1.8L",
 					"title": "荣事达 养生壶花茶壶多功能加厚玻璃全自动煮茶器YSH8013",
 					"bannerList": [{
 						"height": 1440,
