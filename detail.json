@@ -8,6 +8,15 @@
 					"monthPay": 77.88,
 					"price": 396.00,
 					"nper": 6,
+					"bannerList": [{
+						"image": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/a4ac205ac1846c61.jpg"
+					}, {
+						"image": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/174d9082bfed4818.jpg"
+					}, {
+						"image": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/c557ecc9b7cc5935.jpg"
+					}, {
+						"image": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/e93cf320818c8c7e.jpg"
+					}],
 					"propertyValues": "卡其色,1L",
 					"title": "荣事达自动上水壶保温玻璃泡茶电水壶养生壶GM10R",
 					"detailImages": [{
@@ -54,6 +63,11 @@
 					"monthPay": 66.67,
 					"price": 339.00,
 					"nper": 6,
+					"bannerImages": [{
+						"image": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/b7f3e4eaf09305c2.jpg"
+					}, {
+						"image": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/b0959706e44525b2.jpg"
+					}],
 					"propertyValues": "1.8L",
 					"title": "荣事达 全自动加厚玻璃电煮茶壶多功能烧水煮茶器养生壶YSH8012",
 					"detailImages": [{
@@ -166,6 +180,17 @@
 					"goodsIcon": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/ad33fe3b6500ceb8.jpg",
 					"goodsId": 722,
 					"monthPay": 38.94,
+					"bannerImages": [{
+						"image": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/ad33fe3b6500ceb8.jpg"
+					}, {
+						"image": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/1eb6c95e2ed078e6.jpg"
+					}, {
+						"image": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/2c78663d9177bf34.jpg"
+					}, {
+						"image": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/902b6a474cd5af07.jpg"
+					}, {
+						"image": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/1c65ad7ecb1ecbfa.jpg"
+					}],
 					"price": 198.00,
 					"nper": 6,
 					"propertyValues": "1.8L",
@@ -236,6 +261,15 @@
 					"goodsIcon": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/072b1432f4c6e08d.jpg",
 					"goodsId": 723,
 					"monthPay": 38.94,
+					"bannerImages": [{
+						"image": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/072b1432f4c6e08d.jpg"
+					}, {
+						"image": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/8b5ada4360427ead.jpg"
+					}, {
+						"image": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/43dfff2e1dd0ebae.jpg"
+					}, {
+						"image": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/fd02a101c4479338.jpg"
+					}],
 					"price": 198.00,
 					"propertyValues": "1.5L",
 					"nper": 6,
@@ -324,6 +358,15 @@
 					"monthPay": 37.17,
 					"price": 189.00,
 					"propertyValues": "1.5L",
+					"bannerImages": [{
+						"image": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/3a4eee8e3320e8a3.jpg"
+					}, {
+						"image": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/1bd9729fe99f06c0.jpg"
+					}, {
+						"image": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/d5b0c10c5c3baf1c.jpg"
+					}, {
+						"image": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/bbab68d7aa78efc4.jpg"
+					}],
 					"nper": 6,
 					"title": "荣事达 1.5L全自动加厚玻璃烧水壶多功能煮茶器养生壶YSH150BT1563T",
 					"detailImages": [{
@@ -422,6 +465,13 @@
 					"monthPay": 36.97,
 					"price": 188.00,
 					"nper": 6,
+					"bannerImages": [{
+						"image": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/2530d2212ee683fb.jpg"
+					}, {
+						"image": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/5e1b197f786d8999.jpg"
+					}, {
+						"image": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/d0c3fb9873b5257d.jpg"
+					}],
 					"propertyValues": "自动断电、防干烧、保温",
 					"title": "荣事达 全自动分体电热水壶煮茶器烧水壶养生壶YSH1802",
 					"detailImages": [{
@@ -496,6 +546,13 @@
 					"monthPay": 38.94,
 					"price": 198.00,
 					"nper": 6,
+					"bannerImages": [{
+						"image": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/74ff7e3a0c3e4d87.jpg"
+					}, {
+						"image": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/a3556edbc7e36293.jpg"
+					}, {
+						"image": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/f6c039bd33df35df.jpg"
+					}],
 					"propertyValues": "自动断电、防干烧、保温",
 					"title": "荣事达 全自动中药壶电煎药锅中药罐煎药壶养生壶YSH3501B",
 					"detailImages": [{
@@ -597,6 +654,13 @@
 					"goodsId": 727,
 					"monthPay": 35,
 					"price": 178.00,
+					"bannerImages": [{
+						"image": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/a21eff17c4c4e788.jpg"
+					}, {
+						"image": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/8465e6ead4991d57.jpg"
+					}, {
+						"image": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/e225d62588dd38cb.jpg"
+					}],
 					"nper": 6,
 					"propertyValues": "自动断电、防干烧、保温",
 					"title": "荣事达 全自动中药壶煎药锅养生壶YSH3502",
@@ -712,6 +776,15 @@
 					"monthPay": 39.13,
 					"price": 199.00,
 					"nper": 6,
+					"bannerImages": [{
+						"image": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/366d3be92de65ee2.jpg"
+					}, {
+						"image": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/8646832608455187.jpg"
+					}, {
+						"image": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/705d8306559393cb.jpg"
+					}, {
+						"image": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/f9c09912ef9be66f.jpg"
+					}],
 					"propertyValues": "1.8L",
 					"title": "荣事达 玻璃加厚1.8L全自动多功能煮茶器养生壶YSH8008",
 					"detailImages": [{
@@ -795,6 +868,9 @@
 					"price": 330.00,
 					"nper": 6,
 					"propertyValues": "1.8L",
+					"bannerImages": [{
+						"image": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/1b8a47a0099d36a8.jpg"
+					}],
 					"title": "荣事达 养生壶花茶壶多功能加厚玻璃全自动煮茶器YSH8013",
 					"detailImages": [{
 						"height": 1440,
