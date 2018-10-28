@@ -7,70 +7,190 @@
         "goodsId": 719,
         "monthPay": 77.88,
         "nper": 6,
-        "title": "荣事达自动上水壶保温玻璃泡茶电水壶养生壶GM10R"
+        "title": "荣事达自动上水壶保温玻璃泡茶电水壶养生壶GM10R",
+        "bannerList":[
+          {
+            "desc":"600",
+            "image":"http://shandao.oss-cn-hangzhou.aliyuncs.com/online/9930b2bdceb8ecf6.jpg",
+            "type":"2"
+          },
+          {
+            "desc":"677",
+            "image":"http://shandao.oss-cn-hangzhou.aliyuncs.com/online/4594b60a9b9a5ae6.jpg",
+            "type":"3"
+          }
+        ]
       },
         {
           "goodsIcon": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/b7f3e4eaf09305c2.jpg",
           "goodsId": 721,
           "monthPay": 66.67,
           "nper": 6,
-          "title": "荣事达 全自动加厚玻璃电煮茶壶多功能烧水煮茶器养生壶YSH8012"
+          "title": "荣事达 全自动加厚玻璃电煮茶壶多功能烧水煮茶器养生壶YSH8012",
+          "bannerList":[
+            {
+              "desc":"600",
+              "image":"http://shandao.oss-cn-hangzhou.aliyuncs.com/online/9930b2bdceb8ecf6.jpg",
+              "type":"2"
+            },
+            {
+              "desc":"677",
+              "image":"http://shandao.oss-cn-hangzhou.aliyuncs.com/online/4594b60a9b9a5ae6.jpg",
+              "type":"3"
+            }
+          ]
         },
         {
           "goodsIcon": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/ad33fe3b6500ceb8.jpg",
           "goodsId": 722,
           "monthPay": 38.94,
           "nper": 6,
-          "title": "荣事达 全自动加厚玻璃烧水壶多功能煮茶器养生壶YSH150BT"
+          "title": "荣事达 全自动加厚玻璃烧水壶多功能煮茶器养生壶YSH150BT",
+          "bannerList":[
+            {
+              "desc":"600",
+              "image":"http://shandao.oss-cn-hangzhou.aliyuncs.com/online/9930b2bdceb8ecf6.jpg",
+              "type":"2"
+            },
+            {
+              "desc":"677",
+              "image":"http://shandao.oss-cn-hangzhou.aliyuncs.com/online/4594b60a9b9a5ae6.jpg",
+              "type":"3"
+            }
+          ]
         },
         {
           "goodsIcon": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/072b1432f4c6e08d.jpg",
           "goodsId": 723,
           "monthPay": 38.94,
           "nper": 6,
-          "title": "荣事达 全自动加厚玻璃多功能煮茶壶煮茶器电热水壶养生壶YSH1539"
+          "title": "荣事达 全自动加厚玻璃多功能煮茶壶煮茶器电热水壶养生壶YSH1539",
+          "bannerList":[
+            {
+              "desc":"600",
+              "image":"http://shandao.oss-cn-hangzhou.aliyuncs.com/online/9930b2bdceb8ecf6.jpg",
+              "type":"2"
+            },
+            {
+              "desc":"677",
+              "image":"http://shandao.oss-cn-hangzhou.aliyuncs.com/online/4594b60a9b9a5ae6.jpg",
+              "type":"3"
+            }
+          ]
         },
         {
           "goodsIcon": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/3a4eee8e3320e8a3.jpg",
           "goodsId": 724,
           "monthPay": 37.17,
           "nper": 6,
-          "title": "荣事达 1.5L全自动加厚玻璃烧水壶多功能煮茶器养生壶YSH150BT1563T"
+          "title": "荣事达 1.5L全自动加厚玻璃烧水壶多功能煮茶器养生壶YSH150BT1563T",
+          "bannerList":[
+            {
+              "desc":"600",
+              "image":"http://shandao.oss-cn-hangzhou.aliyuncs.com/online/9930b2bdceb8ecf6.jpg",
+              "type":"2"
+            },
+            {
+              "desc":"677",
+              "image":"http://shandao.oss-cn-hangzhou.aliyuncs.com/online/4594b60a9b9a5ae6.jpg",
+              "type":"3"
+            }
+          ]
         },
         {
           "goodsIcon": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/2530d2212ee683fb.jpg",
           "goodsId": 725,
           "monthPay": 36.97,
           "nper": 6,
-          "title": "荣事达 全自动分体电热水壶煮茶器烧水壶养生壶YSH1802"
+          "title": "荣事达 全自动分体电热水壶煮茶器烧水壶养生壶YSH1802",
+          "bannerList":[
+            {
+              "desc":"600",
+              "image":"http://shandao.oss-cn-hangzhou.aliyuncs.com/online/9930b2bdceb8ecf6.jpg",
+              "type":"2"
+            },
+            {
+              "desc":"677",
+              "image":"http://shandao.oss-cn-hangzhou.aliyuncs.com/online/4594b60a9b9a5ae6.jpg",
+              "type":"3"
+            }
+          ]
         },
         {
           "goodsIcon": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/74ff7e3a0c3e4d87.jpg",
           "goodsId": 726,
           "monthPay": 38.94,
           "nper": 6,
-          "title": "荣事达 全自动中药壶电煎药锅中药罐煎药壶养生壶YSH3501B"
+          "title": "荣事达 全自动中药壶电煎药锅中药罐煎药壶养生壶YSH3501B",
+          "bannerList":[
+            {
+              "desc":"600",
+              "image":"http://shandao.oss-cn-hangzhou.aliyuncs.com/online/9930b2bdceb8ecf6.jpg",
+              "type":"2"
+            },
+            {
+              "desc":"677",
+              "image":"http://shandao.oss-cn-hangzhou.aliyuncs.com/online/4594b60a9b9a5ae6.jpg",
+              "type":"3"
+            }
+          ]
         },
         {
           "goodsIcon": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/a21eff17c4c4e788.jpg",
           "goodsId": 727,
           "monthPay": 35,
           "nper": 6,
-          "title": "荣事达 全自动中药壶煎药锅养生壶YSH3502"
+          "title": "荣事达 全自动中药壶煎药锅养生壶YSH3502",
+          "bannerList":[
+            {
+              "desc":"600",
+              "image":"http://shandao.oss-cn-hangzhou.aliyuncs.com/online/9930b2bdceb8ecf6.jpg",
+              "type":"2"
+            },
+            {
+              "desc":"677",
+              "image":"http://shandao.oss-cn-hangzhou.aliyuncs.com/online/4594b60a9b9a5ae6.jpg",
+              "type":"3"
+            }
+          ]
         },
         {
           "goodsIcon": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/366d3be92de65ee2.jpg",
           "goodsId": 728,
           "monthPay": 39.13,
           "nper": 6,
-          "title": "荣事达 玻璃加厚1.8L全自动多功能煮茶器养生壶YSH8008"
+          "title": "荣事达 玻璃加厚1.8L全自动多功能煮茶器养生壶YSH8008",
+          "bannerList":[
+            {
+              "desc":"600",
+              "image":"http://shandao.oss-cn-hangzhou.aliyuncs.com/online/9930b2bdceb8ecf6.jpg",
+              "type":"2"
+            },
+            {
+              "desc":"677",
+              "image":"http://shandao.oss-cn-hangzhou.aliyuncs.com/online/4594b60a9b9a5ae6.jpg",
+              "type":"3"
+            }
+          ]
         },
         {
           "goodsIcon": "http://letu-test2.oss-cn-hangzhou.aliyuncs.com/seller/goods/picture/2018-03-16/1b8a47a0099d36a8.jpg",
           "goodsId": 729,
           "monthPay": 64.9,
           "nper": 6,
-          "title": "荣事达 养生壶花茶壶多功能加厚玻璃全自动煮茶器YSH8013"
+          "title": "荣事达 养生壶花茶壶多功能加厚玻璃全自动煮茶器YSH8013",
+          "bannerList":[
+            {
+              "desc":"600",
+              "image":"http://shandao.oss-cn-hangzhou.aliyuncs.com/online/9930b2bdceb8ecf6.jpg",
+              "type":"2"
+            },
+            {
+              "desc":"677",
+              "image":"http://shandao.oss-cn-hangzhou.aliyuncs.com/online/4594b60a9b9a5ae6.jpg",
+              "type":"3"
+            }
+          ]
         }
       ]
     }
